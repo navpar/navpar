@@ -103,7 +103,7 @@ As we said earlier, our first product will be for DAOs.
             to disclose personal information to the DAO
 
         iii. We also ask if they are OK to be doxxed if their claim is
-             rejected the first time
+             rejected the first time (might use something like https://arxiv.org/pdf/2005.03535.pdf)
 
              1.  If they say yes, we could reduce their premium and/or
                  give them a higher sum insured
